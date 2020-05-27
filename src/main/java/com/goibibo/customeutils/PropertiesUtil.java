@@ -23,7 +23,6 @@ public class PropertiesUtil {
 			System.err.println("Unable to load Proprties File");
 		}
 		return value;
-
-	}
+}
 
 }
